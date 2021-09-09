@@ -1,0 +1,25 @@
+{
+  "name": "homework-12-employee-tracker",
+  "version": "1.0.0",
+  "description": "employee tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newengood/homework-12-employee-tracker.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newengood/homework-12-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/newengood/homework-12-employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.3.0"
+  }
+}
